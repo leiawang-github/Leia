@@ -1,4 +1,4 @@
-baseURL = "https://leiawang.netlify.app/"
+baseURL = "https://http://www.leiawang.com"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Leia's Site"
